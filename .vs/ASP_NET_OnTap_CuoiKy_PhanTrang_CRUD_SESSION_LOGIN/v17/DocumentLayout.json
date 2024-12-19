@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\createlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\createlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\editalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\editalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\models\\albumuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\models\\albumuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\createalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\views\\album\\createalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|e:\\tdc_hk5\\asp.net\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\asp_net_ontap_cuoiky_phantrang_crud_session_login\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}|ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj|solutionrelative:asp_net_ontap_cuoiky_phantrang_crud_session_login\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:22:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Program.cs",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Program.cs",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:54:05.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAlbum.cshtml",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateAlbum.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateAlbum.cshtml",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateAlbum.cshtml",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateAlbum.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T03:11:02.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateList.cshtml",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateList.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateList.cshtml",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateList.cshtml",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\CreateList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T03:10:23.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:54:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Album.cs",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\Album.cs",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\Album.cs",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:54:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlbumUploadModel.cs",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\AlbumUploadModel.cs",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\AlbumUploadModel.cs",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\AlbumUploadModel.cs",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Models\\AlbumUploadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:54:04.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditAlbum.cshtml",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\EditAlbum.cshtml",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\EditAlbum.cshtml",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\EditAlbum.cshtml",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Views\\Album\\EditAlbum.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T02:35:18.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\AlbumController.cs",
+              "ToolTip": "E:\\TDC_HK5\\ASP.NET\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\\Controllers\\AlbumController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:34:46.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

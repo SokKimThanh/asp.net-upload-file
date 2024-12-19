@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN", "ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN\ASP_NET_OnTap_CuoiKy_PhanTrang_CRUD_SESSION_LOGIN.csproj", "{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CE21EE-396E-4700-AD66-BE99BB0D6EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102F137C-0C73-4161-B48F-CFDB5EFCFC37}
+	EndGlobalSection
+EndGlobal
